@@ -4,6 +4,7 @@ Support and policy documents for [WalletForge](https://apps.apple.com/app/wallet
 
 ## Documents
 
+- [Support](support.md)
 - [Privacy Policy](privacy-policy.md)
 
 ## Support
